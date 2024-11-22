@@ -1,0 +1,6 @@
+Row to Skip,,,
+Cola,Colb,Colc,Cold
+1,TRUE,Hello,12345
+2,TRUE,World,54321
+3,FALSE,Heya,2345
+4,FALSE,Globe,23456
